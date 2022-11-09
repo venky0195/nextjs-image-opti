@@ -3,7 +3,7 @@ export const Home = () => {
 
   return (
     <div >
-      {envVariable === "TEST_VALUE" && <p>random-commit-14</p>}
+      {envVariable === "TEST_VALUE" && <p>random-commit-16</p>}
     </div>
   )
 }
