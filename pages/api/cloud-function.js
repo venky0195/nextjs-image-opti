@@ -5,5 +5,5 @@ export default function handler(_, res) {
 
   res
     .status(200)
-    .json({ deploymentIdentifier: "nextjs-commit-try-24" })
+    .json({ deploymentIdentifier: "nextjs-commit-try-25" })
 }
