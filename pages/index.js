@@ -3,7 +3,7 @@ export const Home = () => {
 
   return (
     <div >
-      {envVariable === "TEST_VALUE" && <p>nextjs-commit-working11</p>}
+      {envVariable === "TEST_VALUE" && <p>nextjs-commit-working31</p>}
     </div>
   )
 }
