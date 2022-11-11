@@ -3,7 +3,7 @@ export const Home = () => {
 
   return (
     <div >
-      {envVariable === "TEST_VALUE" && <p>random-working-commit-23:asadasdasd</p>}
+      {envVariable === "TEST_VALUE" && <p>contentfly-management-service:ab123:run-counter-2</p>}
     </div>
   )
 }
