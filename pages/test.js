@@ -7,10 +7,11 @@ const imageLoader = ({ src, width, quality }) => {
 }
 
 export default function Page() {
+
     return (
         <Image
             alt="The guitarist in the concert."
-            src={`https://images.contentstack.io/v3/assets/bltb564490bc5201f31/blte3f202a35a967ea1/651c2d19a452a245cc8b4c35/auto-generated-answers-ai.gif`}
+            src={`https://media.giphy.com/media/l2be3XyhClViY06dTt/giphy.gif`}
             width={1200}
             height={400}
             quality={100}
